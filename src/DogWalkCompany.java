@@ -16,5 +16,6 @@ public class DogWalkCompany {
     public int addDogs(){
         Scanner s = new Scanner (System.in);
 
+
     }
 }
