@@ -14,6 +14,7 @@ public class Main {
             c.addDogs();
 
         w = new DogWalker(3,c);
+        w.dogWalkShift(14, 16);
 
         System.out.println(c);
         System.out.println("$" + w.dogWalkShift(7,10) + ".00 earned");
